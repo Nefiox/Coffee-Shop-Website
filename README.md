@@ -1,4 +1,4 @@
-# Coffee-Website ☕
+# Coffee-Shop-Website ☕
 
 Coffee Website | HTML/CSS/JS only
 
